@@ -4,7 +4,6 @@
 
 ☘️ **Frontend & Web Developer** 
 
-*Life is like a `while(true)` loop: fix bug → deploy → new bug appears* 🤪
 
 <br />
 
